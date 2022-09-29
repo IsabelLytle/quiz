@@ -1,0 +1,22 @@
+* {
+    background-color: #359;
+}
+
+ .heading {
+    background-color: #556;
+    font-size: 2rem;
+    color: #769;
+}
+
+.instructions {
+    background-color: #379;
+    block-size: 30vh;
+    border-style: inset;
+    border-color: #379;
+    
+}
+
+.hint {
+    background-color: #699;
+    block-size: 40vh;
+}
